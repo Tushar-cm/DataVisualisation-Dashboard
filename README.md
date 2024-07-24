@@ -2,32 +2,7 @@
 
 Welcome to the Data Visualization Dashboard repository! This dashboard provides insightful visualizations and data representation for our website. 
 
-## Screenshots
 
-Here are some enticing snapshots showcasing the features and functionalities of our visualization dashboard:
-
-![image](https://github.com/RiteshKumarShukla/Data-Visualization-Dashboard/assets/110231091/d30a8648-12d7-41b6-82c6-5ebec4c5268b)
-
-
-![image](https://github.com/RiteshKumarShukla/Data-Visualization-Dashboard/assets/110231091/66fc2062-e850-49c6-ad0c-147e7bd1877e)
-
-
-![image](https://github.com/RiteshKumarShukla/Data-Visualization-Dashboard/assets/110231091/448df45c-b92b-4faf-9784-1dd0c4706ffc)
-
-
-![image](https://github.com/RiteshKumarShukla/Data-Visualization-Dashboard/assets/110231091/0c972e17-8b4f-407f-a3fd-38afeb352127)
-
-
-![image](https://github.com/RiteshKumarShukla/Data-Visualization-Dashboard/assets/110231091/6e620052-f57f-4f93-957c-dc47a45eaedf)
-
-
-![image](https://github.com/RiteshKumarShukla/Data-Visualization-Dashboard/assets/110231091/6f1c69da-ebb0-4059-8614-57fcd818c568)
-
-
-![image](https://github.com/RiteshKumarShukla/Data-Visualization-Dashboard/assets/110231091/f5b957a0-f992-460e-b978-d511eaf488c6)
-
-
-![image](https://github.com/RiteshKumarShukla/Data-Visualization-Dashboard/assets/110231091/27afaa6b-a05f-48e4-9258-f8bcc4788071)
 
 ## About
 
